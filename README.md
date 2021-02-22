@@ -1,2 +1,0 @@
-# deno-notes
-Begin app
